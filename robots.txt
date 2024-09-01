@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://junsyma.github.io/sitemap.html.gz
+Sitemap: https://junsyma.github.io/app/sitemap.html.gz
+Sitemap: https://junsyma.github.io/assets/sitemap.html.gz
+Sitemap: https://junsyma.github.io/css/sitemap.html.gz
+Sitemap: https://junsyma.github.io/includes/sitemap.html.gz
+Sitemap: https://junsyma.github.io/item/sitemap.html.gz
+Sitemap: https://junsyma.github.io/src/sitemap.html.gz
